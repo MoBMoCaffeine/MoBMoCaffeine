@@ -6,12 +6,13 @@ on:
   workflow_dispatch:      # يسمح بتشغيله يدوياً
   push:
     branches:
-      - main
+      - main              # يعمل عند الدفع لفرع main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:          # ضروري جداً لإعطاء صلاحية الكتابة للمستودع
+      contents: write
     
     steps:
       - name: Checkout repository
@@ -19,21 +20,18 @@ jobs:
       
       - name: Generate snake animation
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: MoBMoCaffeine
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
+          target_branch: output # سيتم إنشاء فرع جديد بهذا الاسم
           build_dir: dist
-          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

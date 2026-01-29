@@ -302,11 +302,13 @@ Responsive Design  ████████████████████�
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MoBMoCaffeine&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&ring_color=00ff41" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoBMoCaffeine&show_icons=true&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&include_all_commits=true" />
+
 
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=MoBMoCaffeine&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoBMoCaffeine&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff41&text_color=c9d1d9&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoBMoCaffeine&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact" />
+
 
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MoBMoCaffeine&theme=github-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" />
 
@@ -323,9 +325,7 @@ Responsive Design  ████████████████████�
 </div>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MoBMoCaffeine&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
-
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=MoBMoCaffeine&theme=matrix&no-bg=true&no-frame=true&row=1&column=7" alt="github trophies" />
 </div>
 
 ---
@@ -366,7 +366,9 @@ Responsive Design  ████████████████████�
 
 ## 💭 Fun Facts About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94a0bf69.png" width="200" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" />
+</div>
 
 </div>
 
@@ -385,7 +387,10 @@ Responsive Design  ████████████████████�
 
 ## 💬 Let's Connect & Collaborate!
 
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7e3ab5-fb27-4c3d-8a5e-bec8ce980cb9.png" width="400" />
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <p><b>I'm always open to interesting conversations and collaboration opportunities!</b></p>
+</div>
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
