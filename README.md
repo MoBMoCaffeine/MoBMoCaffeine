@@ -34,11 +34,11 @@ const mohamed = {
     name: "Mohamed Bakr",
     role: "Freelance Web Developer",
     experience: "1+ Year",
-    location: "Sohag, Egypt 🇪🇬",
+    location: "Qena, Egypt 🇪🇬",
     code: ["JavaScript", "C++", "Python", "HTML5", "CSS3"],
     technologies: {
         frontEnd: ["React", "Bootstrap", "Tailwind CSS"],
-        backEnd: ["Node.js", "Express", "MySQL"],
+        backEnd: ["Node.js", "Express", "MySQL", "MongoDB"],
         tools: ["Git", "GitHub", "Figma", "VS Code"],
         learning: ["React", "Node.js", "Flutter", "Data Structures"]
     },
@@ -315,12 +315,16 @@ Responsive Design  ████████████████████�
 
 ## 🏆 GitHub Trophies
 
+<!-- صورة ثابتة -->
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoBMoCaffeine&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+<!-- بديل ديناميكي شغال دائمًا -->
+<img src="https://github-readme-stats.vercel.app/api?username=MoBMoCaffeine&show_icons=true&theme=matrix&hide_border=true" />
+
 </div>
 
 ---
