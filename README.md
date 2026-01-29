@@ -104,12 +104,15 @@ const mohamed = {
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
@@ -148,16 +151,16 @@ const mohamed = {
 </div>
 
 ```text
-HTML5 / CSS3       ████████████████████░░   95% ▰▰▰▰▰▰▰▰▰▱
-JavaScript         ████████████████░░░░░░   80% ▰▰▰▰▰▰▰▰▱▱
-Bootstrap          ██████████████████░░░░   90% ▰▰▰▰▰▰▰▰▰▱
-C++ / C            ████████████████░░░░░░   85% ▰▰▰▰▰▰▰▰▰▱
-Python             ██████████████░░░░░░░░   70% ▰▰▰▰▰▰▰▱▱▱
-React              ████████████░░░░░░░░░░   60% ▰▰▰▰▰▰▱▱▱▱
-Node.js            ██████████░░░░░░░░░░░░   50% ▰▰▰▰▰▱▱▱▱▱
-Git & GitHub       ██████████████████░░░░   90% ▰▰▰▰▰▰▰▰▰▱
-UI/UX Design       ████████████████░░░░░░   80% ▰▰▰▰▰▰▰▰▱▱
-Responsive Design  ████████████████████░░   95% ▰▰▰▰▰▰▰▰▰▱
+HTML5 / CSS3       ████████████████████░░   95%  ▰▰▰▰▰▰▰▰▰▱
+JavaScript         ████████████████░░░░░░   80%  ▰▰▰▰▰▰▰▰▱▱
+Bootstrap          ██████████████████░░░░   90%  ▰▰▰▰▰▰▰▰▰▱
+C++ / C            ████████████████░░░░░░   85%  ▰▰▰▰▰▰▰▰▰▱
+Python             ██████████████░░░░░░░░   70%  ▰▰▰▰▰▰▰▱▱▱
+React              ████████████░░░░░░░░░░   60%  ▰▰▰▰▰▰▱▱▱▱
+Node.js            ██████████░░░░░░░░░░░░   50%  ▰▰▰▰▰▱▱▱▱▱
+Git & GitHub       ██████████████████░░░░   90%  ▰▰▰▰▰▰▰▰▰▱
+UI/UX Design       ████████████████░░░░░░   80%  ▰▰▰▰▰▰▰▰▱▱
+Responsive Design  ████████████████████░░   95%  ▰▰▰▰▰▰▰▰▰▱
 ```
 
 ---
@@ -315,15 +318,13 @@ Responsive Design  ████████████████████�
 
 ## 🏆 GitHub Trophies
 
-<!-- صورة ثابتة -->
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
 
 </div>
 
 <div align="center">
 
-<!-- بديل ديناميكي شغال دائمًا -->
-<img src="https://github-readme-stats.vercel.app/api?username=MoBMoCaffeine&show_icons=true&theme=matrix&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=MoBMoCaffeine&theme=matrix&no-frame=true&no-bg=false&margin-w=4&row=2&column=3" />
 
 </div>
 
@@ -333,7 +334,7 @@ Responsive Design  ████████████████████�
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoBMoCaffeine&custom_title=Mohamed%20Bakr's%20Contribution%20Graph&bg_color=0D1117&color=00ff41&line=00ff41&point=FFFFFF&area_color=00ff41&title_color=00ff41&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoBMoCaffeine&custom_title=Mohamed%20Bakr%27s%20Contribution%20Graph&bg_color=0D1117&color=00ff41&line=00ff41&point=FFFFFF&area_color=00ff41&title_color=00ff41&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -349,15 +350,13 @@ Responsive Design  ████████████████████�
   <img alt="github-snake" src="https://raw.githubusercontent.com/MoBMoCaffeine/MoBMoCaffeine/output/github-contribution-grid-snake.svg" />
 </picture>
 
-</div>
-
 ---
 
 <div align="center">
 
 ## ✍️ Random Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
@@ -415,6 +414,8 @@ Responsive Design  ████████████████████�
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer&animation=twinkling" />
 
 </div>
+
+---
 
 <!-- Snake Animation Workflow -->
 <!-- 

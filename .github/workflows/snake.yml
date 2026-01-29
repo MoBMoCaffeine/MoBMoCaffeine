@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
+    - cron: "0 */12 * * *" # يعمل كل 12 ساعة
+  workflow_dispatch:      # يسمح بتشغيله يدوياً
   push:
     branches:
       - main
@@ -34,5 +34,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "Update snake animation [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
