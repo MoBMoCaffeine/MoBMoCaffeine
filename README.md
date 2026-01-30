@@ -13,7 +13,7 @@
 <p>
   <a href="https://www.facebook.com/share/16M7GCdc7V/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/mhmed_768099"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mohamed-bakr-6641b1376"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamed-bakr-6641b1376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bakrm1921@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://stackoverflow.com/users/27370437"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
 </p>
@@ -398,7 +398,7 @@ Responsive Design  ████████████████████�
   <a href="mailto:bakrm1921@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-00ff41?style=for-the-badge&logo=gmail&logoColor=black" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-bakr-6641b1376">
+  <a href="https://www.linkedin.com/in/mohamed-bakr-6641b1376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MoBMoCaffeine">
