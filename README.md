@@ -11,7 +11,7 @@
 
 <!-- Social Badges -->
 <p>
-  <a href="https://www.facebook.com/share/16M7GCdc7V/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.facebook.com/mohamed.b.mohamed.965792"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
   <a href="https://www.instagram.com/mhmed_768099"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mohamed-bakr-6641b1376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:bakrm1921@gmail.com"><img src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=black" /></a>
@@ -84,6 +84,10 @@ const mohamed = {
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="65" height="65" alt="C++ DS" />
       <br><b>DS in C++</b>
     </td>
+    <td align="center" width="140">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65" height="65" alt="AI/ML" />
+        <br><b>AI / ML</b>
+    </td>
   </tr>
 </table>
 
@@ -138,6 +142,8 @@ const mohamed = {
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
@@ -301,19 +307,14 @@ Responsive Design  ████████████████████�
 </div>
 
 <div align="center">
-  
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoBMoCaffeine&show_icons=true&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoBMoCaffeine&show_icons=true&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoBMoCaffeine&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&cache_seconds=1800" />
 
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=MoBMoCaffeine&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoBMoCaffeine&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800" />
 
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoBMoCaffeine&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact" />
-
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=MoBMoCaffeine&theme=github-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" />
-
+  <img width="49%" height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=MoBMoCaffeine&theme=github-dark&bg_color=0D1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true&cache_seconds=1800" />
 </div>
-
 ---
 
 <div align="center">
@@ -388,7 +389,7 @@ Responsive Design  ████████████████████�
 ## 💬 Let's Connect & Collaborate!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/66M6ZwJkTLYikvhrqZ/giphy.gif" width="400" alt="Debugging GIF"/>
   <p><b>I'm always open to interesting conversations and collaboration opportunities!</b></p>
 </div>
 
