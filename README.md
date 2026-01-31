@@ -265,6 +265,7 @@ Responsive Design  ████████████████████�
         </p>
         <p>
           <a href="https://github.com/MoBMoCaffeine/CursorTrackersArrows" target="_blank">
+            <img src="https://img.shields.io/badge/View%20Project-00ff41?style=for-the-badge&logo=github&logoColor=black" />
           </a>
         </p>
       </div>
