@@ -309,7 +309,7 @@ Responsive Design  ████████████████████�
 <div align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoBMoCaffeine&show_icons=true&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MoBMoCaffeine&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=MoBMoCaffeine&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&cache_seconds=1800" />
 
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoBMoCaffeine&text_color=00ff41&icon_color=00ff41&title_color=00ff41&bg_color=0D1117&hide_border=true&layout=compact&langs_count=10&cache_seconds=1800" />
 
